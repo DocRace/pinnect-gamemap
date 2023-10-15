@@ -1,0 +1,17 @@
+[package]
+name = "sol_contract"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[env]
+LOG_LEVEL = "debug"
+
+[dependencies]
+log = "0.4"
+env_logger = "0.9"
+solana-program = "1.17.1"  # adjust the version as per your requirement
+borsh = "0.9.1"
+serde = "1.0"
+serde_derive = "1.0"

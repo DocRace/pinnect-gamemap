@@ -1,6 +1,6 @@
 # Pinnect
 Game-map collaboration, all for gammers.
-Pinnect is a visionary platform designed to revolutionize collaborative storytelling within the Solana ecosystem. With a seamless blend of interactive map exploration, tag management, and relationship visualization, Pinnect empowers users to co-create immersive narratives and gaming experiences like never before.
+Pinnect is a visionary platform designed to revolutionize collaborative storytelling within the Ethereum ecosystem. With a seamless blend of interactive map exploration, tag management, and relationship visualization, Pinnect empowers users to co-create immersive narratives and gaming experiences like never before.
 ![Pinnect.001.png](/images/Pinnect.001.png)
 ## Track: Layer 2 Application
 Deck: https://docsend.com/view/zkpsurvwxkq9pq98 
@@ -12,7 +12,7 @@ Pitch Video: https://youtu.be/Tr6Xrd_Swys
 2. Efficient Tag Editing: Managing tags has never been easier. Pinnect's tag editing interface allows users to refine titles, descriptions, and relationships effortlessly. Users can create hyperlinks between tags and ensure organized and interconnected storytelling.
 3. Relationship Flow: Pinnect's Relationship Flow feature simplifies tag relationship visualization. Users can connect tags, choose direction (preceding or following), and define relationship types, enabling branching storylines and fostering creative collaboration.
 4. On-Chain Contribution: Pinnect promotes fairness and transparency through on-chain contributions. Content is securely anchored on the blockchain, ensuring equitable rewards and incentivizing active participation.
-5. Cross-Platform Wallet Integration: Our platform offers cross-platform wallet support, allowing users to seamlessly access their Solana wallets across various devices and platforms, making transactions and asset management convenient and consistent.
+5. Cross-Platform Wallet Integration: Our platform offers cross-platform wallet support, allowing users to seamlessly access their Ethereum wallets across various devices and platforms, making transactions and asset management convenient and consistent.
 
 ![Pinnect.002.jpeg](/images/Pinnect.002.jpeg)
 ## Pinnect contribute to Ethereum ecosystem with
@@ -60,7 +60,7 @@ The layout of the edit box, from top to bottom, is as follows:
 1. Direction and its option box: There are two types, preceding and following, similar to the arrowhead editing box at the end of the line in Keynote.
 2. Relationship and its option box: This can be connectors like "owns", "manages", "belongs to", "requires", etc.
 
-## Connect Wallet with cross-platform support on Solana
+## Connect Wallet with cross-platform support on Ethereum
 Contribute on-chain for fair incentive and collaboration
 ![Pinnect.006.png](/images/Pinnect.006.png)
 ![Pinnect.007.jpeg](/images/Pinnect.007.jpeg)
