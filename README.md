@@ -78,7 +78,7 @@ Contribute on-chain for fair incentive and collaboration
 - On the Oct 13th and 14th, we discussed and validated concepts, and performed user validation.
 - From the Oct 14th to the 15th, we divided tasks and carried out front-end and back-end development, contract deployment, and debugging.
 ## Github repo
-https://github.com/DocRace/Pinnect
+https://github.com/DocRace/pinnect-eth-hangzhou
 ## Originality Statement
 This project, developed from scratch during this hackathon, is a completely original creation.
 ## Demo links
