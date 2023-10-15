@@ -1,4 +1,4 @@
-# Neo Devpack for TypeScript
+# Cross Layer EVM Devpack for TypeScript
 
 <p align="left">
   <a href="https://github.com/ngdenterprise/neo-devpack-ts/releases/tag/0.8.9-preview">
@@ -9,8 +9,8 @@
   </a>
 </p>
 
-This repo contains a new Neo N3 TypeScript smart contract compiler. In other words, the tool in this repo 
-allows you to write Neo N3 Smart Contracts using TypeScript. This tool joins the larger family of Neo 
+This repo contains a new cross layer EVM TypeScript smart contract compiler. In other words, the tool in this repo 
+allows you to write cross layer EVM Smart Contracts using TypeScript. This tool joins the larger family of Neo 
 N3 smart contract compilers including [C#](https://github.com/neo-project/neo-devpack-dotnet),
 [Java](https://neow3j.io/#/neo-n3/smart_contract_development/introduction), 
 [Python](https://github.com/CityOfZion/neo3-boa)
