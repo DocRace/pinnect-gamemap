@@ -3,7 +3,7 @@ Game-map collaboration, all for gammers.
 Pinnect is a visionary platform designed to revolutionize collaborative storytelling within the Ethereum ecosystem. With a seamless blend of interactive map exploration, tag management, and relationship visualization, Pinnect empowers users to co-create immersive narratives and gaming experiences like never before.
 ![Pinnect.001.png](/images/Pinnect.001.png)
 ## Track: Layer 2 Application
-Deck: https://docsend.com/view/zkpsurvwxkq9pq98 
+Deck: https://docsend.com/view/x64yntk9zrs73uqj
 Pitch Video: https://youtu.be/Tr6Xrd_Swys
 [![Demo Video](http://img.youtube.com/vi/Tr6Xrd_Swys/0.jpg)](http://www.youtube.com/watch?v=Tr6Xrd_Swys "Pinnect Eth Hangzhou")
 
@@ -82,8 +82,8 @@ https://github.com/DocRace/Pinnect
 ## Originality Statement
 This project, developed from scratch during this hackathon, is a completely original creation.
 ## Demo links
-Deck: https://docsend.com/view/zkpsurvwxkq9pq98 
-Pitch Video: 
+Deck: https://docsend.com/view/x64yntk9zrs73uqj
+Pitch Video: https://youtu.be/Tr6Xrd_Swys
 ## Contact us
 Race Li
 Telegram @RaceLi
