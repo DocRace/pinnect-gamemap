@@ -20,7 +20,7 @@ Pitch Video: https://youtu.be/Tr6Xrd_Swys
 2. **Seamless Interoperability and Cross-chain Support**: Ethereum's and Layer 2's architectures, designed for interoperability, align perfectly with **Pinnect's vision**. They allow for horizontal scalability while maintaining a shared state, ensuring seamless connection between Pinnect, gaming communities and various Layer 2 solutions. Gamers and storytellers can effortlessly move between Pinnect and other Ethereum or Layer2-powered games, creating a cohesive and immersive experience. 
 3. **Empowering the Metaverse**: With the capabilities of Ethereum, Pinnect can usher in a new era of decentralized marketplaces, **cross-game item integration**, and **fully on-chain storytelling elements**. Users can seamlessly incorporate assets from other Ethereum or Layer2-powered games into their **collaborative narratives**, creating a metaverse where storytelling knows no boundaries.
 
-![PinnectSynergy](/images/PinnectSynergy.png)
+![PinnectSynergy](/images/PinnectSynergy2.png)
 ## Game-map Collaboration
 This page allows you to control the display of the map and its tags through filtering, sorting, and other methods to find the information you need.
 ![Pinnect.003.jpeg](/images/Pinnect.003.jpeg)
