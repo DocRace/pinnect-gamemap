@@ -1,135 +1,67 @@
-![](./img/banner.png)
-# ETH Hangzhou Hackathon
-[中文](./README-cn.md)
+# Pinnect
+Game-map collaboration, all for gammers, with Solana
+Deck: https://docsend.com/view/zkpsurvwxkq9pq98 
+![Pinnect.001.jpeg](/images/Pinnect.001.jpeg)
+## Solana GameKit Integrated
+Pinnect is poised to take full advantage of the Solana Games Kit, to go bigger, faster, and smarter in the realm of collaborative storytelling and interactive gaming.
+![PinnectGameKit.png](/images/PinnectGameKit.png)
+![Pinnect.002.jpeg](/images/Pinnect.002.jpeg)
+## Pinnect contribute to Solana ecosystem with
+1. **Solana Creator Ecosystem**: By attracting **gamers and storytellers** to your platform, Pinnect can introduce **more users** to the Solana blockchain. This increased user adoption strengthens the Solana ecosystem, potentially leading to more participants in other Solana-powered projects and games.
+2. **Seamless Interoperability**: Solana's architecture, designed for interoperability, is perfectly aligned with **Pinnect's vision**. It allows for horizontal scalability while maintaining a shared state, ensuring that connecting Solana and gaming communities remains seamless. Gamers and storytellers can effortlessly move between Pinnect and other Solana-powered games, creating a cohesive and immersive experience.
+3. **Empowering the Metaverse**: With Solana Games Kit's capabilities, Pinnect can usher in a new era of decentralized marketplaces, **cross-game item integration**, and **fully on-chain storytelling elements**. Users can seamlessly incorporate assets from other Solana-powered games into their **collaborative narratives**, creating a metaverse where storytelling knows no boundaries.
 
-ETH Hangzhou is an up-and-coming ethereum community hackathon after ETH Beijing, hosted by ZJU Blockchain Association, PKU Blockchain DAO and WTF Academy.
+![PinnectSynergy](/images/PinnectSynergy.png)
+## Game-map Collaboration
+This page allows you to control the display of the map and its tags through filtering, sorting, and other methods to find the information you need.
+![Pinnect.003.jpeg](/images/Pinnect.003.jpeg)
+Priority of feature requirements: Understandable but not obvious method
+1. Tag List: Display an evenly arranged list of all primary tags and their associated secondary tags. Clicking on any will dim it and no longer display its corresponding tag on the map. Clicking a primary tag will hide all the markers corresponding to its secondary tags.
+2. Show/Hide All Switch: This switch controls the visibility of all tags.
+3. Search Box: This allows for searching for specific tags or markers.
+4. Progress Radio Button: By selecting different chapters (game progress), you can choose different degrees of war fog coverage to prevent spoilers. For example, when selecting the first chapter, markers in the tag data that belong to the second chapter and later will be hidden.
+5. Heatmap Display Mode Switch: You can select "Heatmap Priority" to display the markers most frequently visited/submitted by current players. This is useful for viewing the progress of the majority of players.
+6. Mini-map and Zoom Buttons: Includes a thumbnail of the map and zoom in/out buttons.
 
-With three main tracks and a total prize pool of $15,000+. As long as you have enough technical or research strength, you are welcome to participate in this event as an individual or in a team!
-## Time
-October 13 - October 16, 2023
+## Tag Editing
+Editing interface for tags.
+![Pinnect.004.jpeg](/images/Pinnect.004.jpeg)
 
-## Place
-Hangzhou, China
+The layout, from top to bottom, is as follows:
+- Image and its submission button. (Optional)
+- Title and its text input box.
+- Description and its text input box. (Optional)
+- Dropdown single selection box for primary tags.
+  This can be tasks, NPCs, items, buildings, regions, or any other types.
+- Dropdown single selection box for secondary tags. (Optional)
+  Only two levels of tags are set.
+- Belonging chapter. (Optional)
+- Submission button.
 
-## Prize Pool
+### Function
+1. In the description input box, hyperlinks to other tags can be created using [[]] syntax.
+2. Transaction bundling: every 'n' transactions should be bundled together for on-chain attestation (this number 'n' needs to be set).
+3. AI duplication detection: when a user makes a submission, the content is analyzed to determine if it is a tag that already exists. If it is, a prompt should appear asking if this is a mistake, with two options: 'Yes, submit an updated version' or 'No, submit as a new version'. If 'No' is chosen, the submission should undergo backend review.
 
-$15,000+
+## Relationship Flow
+Relationship diagram of the current tag is highlighted. When another tag is clicked, a line between the current tag and the clicked tag is displayed, along with an adjacent edit box.
+![Pinnect.005.jpeg](/images/Pinnect.005.jpeg)
 
-## Website
+The layout of the edit box, from top to bottom, is as follows:
+1. Direction and its option box: There are two types, preceding and following, similar to the arrowhead editing box at the end of the line in Keynote.
+2. Relationship and its option box: This can be connectors like "owns", "manages", "belongs to", "requires", etc.
 
-[Website](https://www.ethhangzhou.xyz)
+## Connect Wallet with cross-platform support on Solana
+Contribute on-chain for fair incentive and collaboration
+![Pinnect.006.jpeg](/images/Pinnect.006.jpeg)
+![Pinnect.007.jpeg](/images/Pinnect.007.jpeg)
 
-## Application link
+## Developers
+**Annie Karen**
+(Dropout) CS Freshman @ UC Berkeley, ETH Denver NFT Track Award Winner, Canada National Book Award Winner, NCWIT Award Winner.
 
-[Application](https://docs.google.com/forms/d/e/1FAIpQLSeqm45uEfWECqmNWErGSDR0QHFnhKPdiQyyJyrteroOhvVzrQ/viewform) 
+**Sloan_gw**
+Senior Web3 & tokenomics researcher, early cryptocurrency investors expert in build distributed systems of autonomy, trust, and collaboration.
 
-## Team Info
-
-[Team Info Page](https://github.com/eth-hangzhou/ETHHangzhou/blob/main/team-info.md)
-
-## Hackathon Track
-### Main track
-
-Teams must choose one of the 3 main tracks. Each main track has $10,000 in prize, including $5,000 for the 1st, $3,000 for the 2nd, and $2,000 for the 3rd.
-
-1. **Public goods**: Protocols, Infrastructure, Developer Tools, ……
-2. **Layer2 Application**: DAO, On-chain Gaming, Social, ……
-3. **Zero Knowledge**: Privacy, Data, Security, ……
-
-
-## Schedule
-
-| Event                               | Date            | Time           | Guest                            |
-| ----------------------------------- | --------------- | ---------------| --------------------------------- |
-| Participant Check-in                | ⏰ October 13th | 12:00 PM       |                                  |
-| Team Formation Deadline             | ⏰ October 13th | Until 7:00 PM  |                                  |
-| Dinner                              | ⏰ October 13th | 6:00 PM        |                                  |
-| Project Introduction (Each Team, not exceeding 3 minutes) | ⏰ October 13th | 7:00 PM | |
-|                                     |                 |                |                                  |
-| Project Build                       | ⏰ October 14th | All Day        |                                  |
-| Lunch                               | ⏰ October 14th | 12:00 PM       |                                  |
-| Workshop                            | ⏰ October 14th | 1:00 PM - 5:30 PM |  |
-| Dinner                              | ⏰ October 14th | 6:00 PM        |                                  |
-| Project Progress Report (Each Team, not exceeding 3 minutes) | ⏰ October 14th | 7:00 PM | |
-|                                     |                 |                |                                  |
-| Project Build                       | ⏰ October 15th | All Day        |                                  |
-| Lunch                               | ⏰ October 15th | 12:00 PM       |                                  |
-| Workshop                            | ⏰ October 15th | 1:00 PM - 5:30 PM |  |
-| Dinner                              | ⏰ October 15th | 6:00 PM        |                                  |
-| Project Progress Report (Each Team, not exceeding 3 minutes) | ⏰ October 15th | 7:00 PM | |
-|                                     |                 |                |                                  |
-| Project Build                       | ⏰ October 16th | Until 3:00 PM  |                                  |
-| Lunch                               | ⏰ October 16th | 12:00 PM       |                                  |
-| Project Submission                  | ⏰ October 16th | 2:00 PM        |                                  |
-| Judges' Scoring (Two Rounds, Sponsor Priority in the Finals) | ⏰ October 16th | 2:00 PM - 5:30 PM |  |
-| Dinner                              | ⏰ October 16th | 6:00 PM        |                                  |
-| Announcement, Awards, and Demo Day  | ⏰ October 16th | 7:00 PM        |                                  |
-| After Party                         | ⏰ October 16th | 9:00 PM        |                                  |
-
-
-## Organizer 
-
-- [ZJU Blockchain](https://twitter.com/ZJUBCA)
-- [PKU Blockchain](https://twitter.com/PKUBlockchain)
-- [WTF Academy](https://twitter.com/WTFAcademy_)
-
-## Co-organizer
-
-
-## Sponsor
-- [Ethereum Foundation]
-- [Scroll](https://twitter.com/Scroll_ZKP)
-- [Chainlink](https://twitter.com/chainlink)
-- [ZAN]
-- [BIXIN]
-
-## Partner & Supporting Communities
-- [AWS]
-- [4everland]
-- [BUIDLERDAO]
-- [TinTin]
-- [登链社区]
-- [OpenBuild]
-- [moledao]
-- [LXDAO]
-- [infoFlow]
-- [3WW3]
-- [青年DAO]
-- [DeBox]
-- [JEER]
-- More coming soon!
-
-## FAQ
-
-### What is ETH Hangzhou?
-
-ETH Hangzhou is an event that bring Ethereum builders to Hangzhou.
-
-### Who is encouraged to attend this event?
-
-ETH Hangzhou Hackathon aims to bring developers, designers, researchers that want to build a project during a hackathon.
-
-### Does ETH Hangzhou charge any fees?
-
-ETH Hangzhou is free to attend.
-
-### Will ETH Hangzhou offer travel scholarships to hackers?
-
-We will provide foods, accomodations, and travel compensation to students if budget permits.
-
-### Can I participate remotely at this event?
-
-No, ETH Hangzhou Hackathon is a in-person event in Hangzhou, and you need to attend in person.
-
-### How many members are allowed on my team?
-
-Each team can have up to a maximum of 4 members in total.
-
-### Can I start working on my project before the event?
-
-No. In the interest of fairness, attendees should not be working on their projects before the hackathon begins and we do not allow participants to work on pre-existing projects. But you can familarize with the tools of the project.
-
-### What can I build during the event?
-
-We provide 3 main tracks in ETH Hangzhou. Each project must select 1 main track.
-
+### Add Telegram and contribute with us!
+![Pinnect.008.jpeg](/images/Pinnect.008.png)
