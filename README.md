@@ -1,8 +1,7 @@
 # Pinnect
 Game-map collaboration, all for gammers.
-Pinnect is a visionary platform designed to revolutionize collaborative storytelling within the Ethereum ecosystem. With a seamless blend of interactive map exploration, tag management, and relationship visualization, Pinnect empowers users to co-create immersive narratives and gaming experiences like never before.
+Pinnect is a visionary platform designed to revolutionize collaborative game-map editing within Lit, Newcoin and gaming ecosystem. With a seamless blend of interactive map exploration, tag management, and relationship visualization, Pinnect empowers users to co-create immersive narratives and gaming experiences like never before.
 ![Pinnect.001.png](/images/Pinnect.001.png)
-## Track: Layer 2 Application
 Deck: https://docsend.com/view/x64yntk9zrs73uqj
 Pitch Video: https://youtu.be/Tr6Xrd_Swys
 [![Demo Video](http://img.youtube.com/vi/Tr6Xrd_Swys/0.jpg)](http://www.youtube.com/watch?v=Tr6Xrd_Swys "Pinnect Eth Hangzhou")
@@ -15,12 +14,13 @@ Pitch Video: https://youtu.be/Tr6Xrd_Swys
 5. Cross-Platform Wallet Integration: Our platform offers cross-platform wallet support, allowing users to seamlessly access their Ethereum wallets across various devices and platforms, making transactions and asset management convenient and consistent.
 
 ![Pinnect.002.jpeg](/images/Pinnect.002.jpeg)
-## Pinnect contribute to Ethereum ecosystem with
-1. **Ethereum Creator Ecosystem**: By attracting **gamers and storytellers** to our platform, Pinnect can introduce **more users** to the Ethereum and Layer2 ecosystems. This increased user adoption strengthens the ecosystems, potentially leading to more participants in other Ethereum and Layer 2-powered projects and games.
-2. **Seamless Interoperability and Cross-chain Support**: Ethereum's and Layer 2's architectures, designed for interoperability, align perfectly with **Pinnect's vision**. They allow for horizontal scalability while maintaining a shared state, ensuring seamless connection between Pinnect, gaming communities and various Layer 2 solutions. Gamers and storytellers can effortlessly move between Pinnect and other Ethereum or Layer2-powered games, creating a cohesive and immersive experience. 
-3. **Empowering the Metaverse**: With the capabilities of Ethereum, Pinnect can usher in a new era of decentralized marketplaces, **cross-game item integration**, and **fully on-chain storytelling elements**. Users can seamlessly incorporate assets from other Ethereum or Layer2-powered games into their **collaborative narratives**, creating a metaverse where storytelling knows no boundaries.
+## Pinnect contribute to Identity Hackathon with
+1. Creator Ecosystem: By attracting gamers and storytellers to our platform, Pinnect can introduce more users to the Newcoin, LitProtocol and Ceramic ecosystems. This increased user adoption strengthens the ecosystems, potentially leading to more participants in other Disco, Sismo, useOrbis, Cyber Connect HQ and Gitcoin projects and games.
 
-![PinnectSynergy](/images/PinnectSynergy2.png)
+2. Seamless Interoperability and Cross-chain Support: Newcoin, LitProtocol and Ceramic's architectures, designed for interoperability, align perfectly with Pinnect's vision. They allow for horizontal scalability while maintaining a shared state, ensuring seamless connection between Pinnect, gaming communities and various 0xIntuition, JOKERACE, Guild and other Layer 2 solutions. Gamers and storytellers can effortlessly move between Pinnect and other Newcoin,  LitProtocol and Ceramic or Layer2-powered games, creating a cohesive and immersive experience.  
+
+3. Empowering the Metaverse: With the capabilities of Newcoin,  LitProtocol and Ceramic, Pinnect can usher in a new era of decentralized marketplaces, cross-game item integration, and fully on-chain storytelling elements. Users can seamlessly incorporate assets from other Newcoin,  LitProtocol and Ceramic or Layer2-powered games into their collaborative narratives, creating a metaverse where storytelling knows no boundaries.
+
 ## Game-map Collaboration
 This page allows you to control the display of the map and its tags through filtering, sorting, and other methods to find the information you need.
 ![Pinnect.003.jpeg](/images/Pinnect.003.jpeg)
@@ -64,28 +64,3 @@ The layout of the edit box, from top to bottom, is as follows:
 Contribute on-chain for fair incentive and collaboration
 ![Pinnect.006.png](/images/Pinnect.006.png)
 ![Pinnect.007.jpeg](/images/Pinnect.007.jpeg)
-## Team
-**Race Li**, co-initiator of magipop, serial entrepreneur, 2nd venture backed founders, previously founded an AI Music startup, made a social app with 1 million+ downloads, Apple WWDC (Worldwide Developers Conference) Scholarship Winner, Hurun U30 Winner, electronic musician.
-
-**Setsukousa**, co-initiator of magipop, senior Web3 researcher, research published in Chaos, Solitons & Fractals, cryptocurrency investors, master in financial physics at ZJU, metaverse consultant at fine arts institute.
-### Add Telegram and contribute with us!
-![Pinnect.008.jpeg](/images/Pinnect.008.png)
-## Goals for This Hackathon
-- The project is an original creation that started from scratch during this hackathon. We aim to create a practical solution in the field of collaborative creativity within gaming communities.
-- We plan to integrate and utilize the Ethereum ecosystem, exploring high-performance creative collaboration solutions through Layer2 integrations.
-- We look forward to moving forward together with talented buidlers globally.
-## Progress in the First Two Days of the Hackathon
-- On the Oct 13th and 14th, we discussed and validated concepts, and performed user validation.
-- From the Oct 14th to the 15th, we divided tasks and carried out front-end and back-end development, contract deployment, and debugging.
-## Github repo
-https://github.com/DocRace/pinnect-eth-hangzhou
-## Originality Statement
-This project, developed from scratch during this hackathon, is a completely original creation.
-## Demo links
-Deck: https://docsend.com/view/x64yntk9zrs73uqj
-Pitch Video: https://youtu.be/Tr6Xrd_Swys
-## Contact us
-Race Li
-Telegram @RaceLi
-Twitter @melitosnap
-Email callmerace@hotmail.com
